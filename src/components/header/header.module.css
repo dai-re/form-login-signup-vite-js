@@ -1,0 +1,19 @@
+.header {
+  background: hsl(205.5, 6%, 21.5%);
+  display: flex;
+  color: #ffffff;
+  align-items: center;
+  padding: 0px 1em;
+  height: 2em;
+}
+.sosiallist {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.nolist {
+  list-style: none;
+}
+.nolist:hover {
+  color: hsla(205.5, 64.5%, 38.6%, 1);
+}
